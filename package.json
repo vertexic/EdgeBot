@@ -1,0 +1,23 @@
+{
+  "name": "edgebot",
+  "version": "0.0.1",
+  "description": "lmao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vertexic/EdgeBot.git"
+  },
+  "author": "verico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vertexic/EdgeBot/issues"
+  },
+  "homepage": "https://github.com/vertexic/EdgeBot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
